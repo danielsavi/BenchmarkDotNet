@@ -1,6 +1,6 @@
 # BenchmarkDotNet :snail:
 
-How to Benchmark your DotNet code in 5 easy steps[^1]:
+How to Benchmark your DotNet code in 5 easy steps [^1][^2]:
 
 ![steps](steps.jpg)
 
@@ -65,3 +65,6 @@ namespace BenchmarkDotNet.ConsoleApp
 ```
 
 [^1]: Intro to Benchmark.net - How To Benchmark C# Code from Tim Corey [https://www.youtube.com/watch?v=mmza9x3QxYE&t=1045s](https://www.youtube.com/watch?v=mmza9x3QxYE&t=1045s)
+
+[^2]: You are doing .NET logging wrong. Let's fix it from Nick Chapsas [https://www.youtube.com/watch?v=bnVfrd3lRv8](https://www.youtube.com/watch?v=bnVfrd3lRv8)
+
