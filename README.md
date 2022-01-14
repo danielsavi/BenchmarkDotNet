@@ -14,6 +14,7 @@ using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 ```
 :three: Create a **Demo** class
+
 :four: Add a couple of **decorators**
 ```csharp
 [MemoryDiagnoser]
@@ -25,8 +26,10 @@ BenchmarkRunner.Run<Demo>();
 ```
 :six: Last but not least, run it on **Release** mode
 
+
 ## Results
 ![results](results.jpg)
+
 
 ## Copy all code from below
 ```csharp
