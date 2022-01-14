@@ -1,6 +1,6 @@
 # BenchmarkDotNet :snail:
 
-How to Benchmark your DotNet code in 5 easy steps [^1][^2]:
+How to Benchmark your DotNet code in 5 easy steps: [^1][^2]
 
 ![steps](steps.jpg)
 
